@@ -1,0 +1,25 @@
+body {
+    background-color: #ccf2f4;
+} 
+h1{
+    color: #be0000;
+}    
+h3{
+        color: #be0000;
+    }
+h2{
+    color: #be0000;
+}   
+  img{
+      background-color: black;
+      border-radius: 50px;
+      
+      
+  }
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 4px;
+}
